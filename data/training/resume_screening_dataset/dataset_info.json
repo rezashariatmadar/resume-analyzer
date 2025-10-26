@@ -1,0 +1,54 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "resume-screening-dataset",
+  "dataset_size": 34091600,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/AzharAli05/Resume-Screening-Dataset@666778f903336a430f93bb69915298f179295565/dataset.csv": {
+      "num_bytes": 33997348,
+      "checksum": null
+    }
+  },
+  "download_size": 33997348,
+  "features": {
+    "Role": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Resume": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Decision": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Reason_for_decision": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Job_Description": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 68088948,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 34091600,
+      "num_examples": 10174,
+      "dataset_name": "resume-screening-dataset"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

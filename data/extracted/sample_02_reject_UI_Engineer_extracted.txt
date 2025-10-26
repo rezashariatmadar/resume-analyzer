@@ -1,0 +1,146 @@
+================================================================================
+SAMPLE RESUME #2
+================================================================================
+
+ROLE: UI Engineer
+DECISION: reject
+
+REASON FOR DECISION:
+Lack of enthusiasm or motivation.
+
+================================================================================
+JOB DESCRIPTION:
+================================================================================
+Here is a job description for a UI Engineer role:
+
+**Job Title:** UI Engineer
+
+**Reports to:** Technical Lead/Engineering Manager
+
+**Location:** [Insert Location]
+
+**Job Type:** Full-time
+
+**About Us:**
+
+[Insert company name] is a [insert company description] that is revolutionizing [insert industry/field]. We are a team of passionate and innovative engineers, designers, and problem-solvers who are dedicated to creating exceptional user experiences. We are seeking a skilled UI Engineer to join our team and help us build the next generation of digital products.
+
+**Job Summary:**
+
+We are looking for a talented UI Engineer to join our team and help us design and develop exceptional user interfaces for our web and mobile applications. As a UI Engineer, you will be responsible for building and maintaining our UI components, ensuring they are responsive, accessible, and consistent across all devices and platforms. You will work closely with our design team to implement their designs and collaborate with our development team to ensure seamless integration of UI components into our applications.
+
+**Key Responsibilities:**
+
+* Design and develop responsive, accessible, and user-friendly UI components using HTML, CSS, and JavaScript
+* Implement UI components using modern front-end frameworks such as React, Angular, or Vue.js
+* Collaborate with designers to bring their designs to life and implement design specifications
+* Work with the development team to ensure seamless integration of UI components into our applications
+* Conduct unit testing and integration testing to ensure UI components are stable and functional
+* Participate in code reviews to ensure high-quality code and adherence to coding standards
+* Stay up-to-date with the latest front-end technologies and trends
+* Troubleshoot and resolve UI-related issues in a timely and efficient manner
+* Participate in the development of new features and functionality
+* Collaborate with the quality assurance team to identify and fix UI-related bugs
+
+**Requirements:**
+
+* 3+ years of experience in UI engineering with a focus on front-end development
+* Strong understanding of HTML, CSS, and JavaScript
+* Experience with modern front-end frameworks such as React, Angular, or Vue.js
+* Strong design principles and human-computer interaction concepts
+* Excellent problem-solving and debugging skills
+* Strong collaboration and communication skills
+* Experience with version control systems such as Git
+* Strong understanding of accessibility principles and practices
+* Bachelor's degree in Computer Science, Engineering, or related field
+
+**Nice to Have:**
+
+* Experience with UI component libraries such as Material-UI, Bootstrap, or Foundation
+* Experience with front-end build tools such as Webpack, Rollup, or Gulp
+* Knowledge of CSS pre-processors such as Sass or Less
+* Experience with testing frameworks such as Jest or Cypress
+* Experience with accessibility tools such as Lighthouse or WAVE
+
+**What We Offer:**
+
+* Competitive salary and benefits package
+* Opportunities for professional growth and development
+* Collaborative and innovative work environment
+* Flexible working hours and remote work options
+* Access to the latest technologies and tools
+* Recognition and rewards for outstanding performance
+
+**How to Apply:**
+
+If you are a motivated and talented UI Engineer who is passionate about creating exceptional user experiences, please submit your resume and cover letter to [insert contact information]. We can't wait to hear from you!
+
+================================================================================
+RESUME TEXT:
+================================================================================
+Here's a sample resume for Alice Wilson, a UI Engineer who was reject for the UI Engineer role:
+
+**Alice Wilson**
+**UI Engineer**
+
+**Contact Information:**
+
+* Email: [alice.wilson@email.com](mailto:alice.wilson@email.com)
+* Phone: 555-555-5555
+* LinkedIn: linkedin.com/in/alicewilsonui
+
+**Summary:**
+Highly motivated and detail-oriented UI Engineer with 5+ years of experience in designing and developing intuitive and user-friendly interfaces. Skilled in a range of technologies, including HTML, CSS, JavaScript, and React. Proven track record of delivering high-quality projects on time and on budget.
+
+**Technical Skills:**
+
+* Programming languages: HTML, CSS, JavaScript, TypeScript
+* Frameworks: React, Angular, Vue.js
+* Libraries: jQuery, Lodash, Material-UI
+* Tools: Webpack, Babel, ESLint, Git
+* Operating Systems: Windows, macOS, Linux
+* Agile methodologies: Scrum, Kanban
+
+**Professional Experience:**
+
+**Senior UI Engineer, XYZ Corporation (2018-Present)**
+
+* Designed and developed high-performing and responsive UI components using React and Material-UI
+* Collaborated with cross-functional teams to deliver multiple high-profile projects, including a mobile app and a web application
+* Implemented automated testing and code review processes to improve code quality and reduce bugs
+* Mentored junior engineers and provided guidance on best practices and design principles
+
+**UI Engineer, ABC Startups (2015-2018)**
+
+* Developed and maintained multiple web applications using HTML, CSS, and JavaScript
+* Implemented responsive design patterns to ensure a seamless user experience across various devices
+* Collaborated with designers to create visually appealing and user-friendly interfaces
+* Participated in code reviews and provided feedback to improve code quality
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, [University Name] (2015)
+
+**Achievements:**
+
+* Successfully led a team to deliver a high-profile project 2 weeks ahead of schedule, resulting in a 20% cost savings
+* Developed and implemented a code review process that improved code quality by 30%
+* Created a reusable UI component library that reduced development time by 40%
+
+**Projects:**
+
+* **React UI Component Library**: Developed a reusable UI component library using React and Material-UI, which improved development time and code quality.
+* **Responsive Web Application**: Designed and developed a responsive web application using HTML, CSS, and JavaScript, which achieved a 95% user satisfaction rate.
+* **Mobile App**: Collaborated with a team to develop a mobile app using React Native, which achieved a 4.5-star rating on the app store.
+
+**Certifications:**
+
+* Certified Scrum Master (CSM)
+* Certified Web Developer (CWD)
+
+**References:**
+Available upon request.
+
+Note that this is just a sample resume, and you should tailor your own resume to your specific experience and the job you're applying for. Also, be sure to proofread your resume multiple times for any errors or typos.
+
+================================================================================

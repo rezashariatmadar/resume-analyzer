@@ -1,0 +1,92 @@
+{
+  "total_files_processed": 5,
+  "summary_stats": {
+    "avg_word_count": 557.8,
+    "avg_sections_found": 7.8,
+    "files_with_email": 3,
+    "files_with_phone": 3,
+    "files_with_url": 3
+  },
+  "files": [
+    {
+      "filename": "sample_01_reject_UX_Designer.txt",
+      "word_count": 418,
+      "sections_found": [
+        "education",
+        "experience",
+        "skills",
+        "summary",
+        "projects",
+        "certifications",
+        "awards",
+        "languages",
+        "references"
+      ],
+      "has_contacts": true
+    },
+    {
+      "filename": "sample_02_reject_UI_Engineer.txt",
+      "word_count": 966,
+      "sections_found": [
+        "education",
+        "experience",
+        "skills",
+        "summary",
+        "projects",
+        "certifications",
+        "awards",
+        "languages",
+        "references"
+      ],
+      "has_contacts": true
+    },
+    {
+      "filename": "sample_03_reject_Human_Resources_Specialist.txt",
+      "word_count": 535,
+      "sections_found": [
+        "education",
+        "experience",
+        "skills",
+        "summary",
+        "projects",
+        "certifications",
+        "awards",
+        "languages",
+        "references"
+      ],
+      "has_contacts": true
+    },
+    {
+      "filename": "sample_04_reject_E-commerce_Specialist.txt",
+      "word_count": 453,
+      "sections_found": [
+        "education",
+        "experience",
+        "skills",
+        "summary",
+        "projects",
+        "certifications",
+        "awards",
+        "languages",
+        "references"
+      ],
+      "has_contacts": false
+    },
+    {
+      "filename": "sample_05_reject_software_engineer.txt",
+      "word_count": 417,
+      "sections_found": [
+        "education",
+        "experience",
+        "skills",
+        "summary",
+        "projects",
+        "certifications",
+        "awards",
+        "languages",
+        "references"
+      ],
+      "has_contacts": false
+    }
+  ]
+}

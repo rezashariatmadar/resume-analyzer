@@ -163,6 +163,7 @@ cython_debug/
 
 # VS Code
 .vscode/
+.cursor/
 
 # Machine Learning specific
 # Model files

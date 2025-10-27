@@ -1,0 +1,39 @@
+{
+  "filename": "sample_01_reject_UX_Designer.txt",
+  "total_entities": 20,
+  "persons": [
+    "DESCRIPTION",
+    "William Mosley",
+    "Adobe Creative Suite",
+    "Creative Suite",
+    "William Mosley's"
+  ],
+  "organizations": [
+    "Sketch",
+    "Figma",
+    "ABC Company",
+    "DEF Agency",
+    "XYZ University",
+    "UX Researcher Certification Program",
+    "Sketch Certification Program"
+  ],
+  "locations": [
+    "Graphic Design"
+  ],
+  "skills": [
+    "testing"
+  ],
+  "skill_count": 1,
+  "degrees": [
+    "Ba",
+    "ma",
+    "as",
+    "ms",
+    "AS"
+  ],
+  "degree_count": 5,
+  "certifications": [
+    "PE"
+  ],
+  "certification_count": 1
+}

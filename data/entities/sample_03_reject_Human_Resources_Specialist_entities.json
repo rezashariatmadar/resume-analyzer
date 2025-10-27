@@ -1,0 +1,41 @@
+{
+  "filename": "sample_03_reject_Human_Resources_Specialist.txt",
+  "total_entities": 23,
+  "persons": [
+    "DESCRIPTION",
+    "Larry James",
+    "Larry James\nContact"
+  ],
+  "organizations": [
+    "Human Resources Specialist",
+    "HRCI",
+    "HRIS",
+    "ABC Agency",
+    "Anytown University",
+    "Society for Human Resource Management Certified Professional",
+    "Society for Human Resource Management",
+    "National Association of Colleges and Employers",
+    "NACE"
+  ],
+  "locations": [
+    "Training",
+    "Anytown",
+    "USA"
+  ],
+  "skills": [],
+  "skill_count": 0,
+  "degrees": [
+    "Ba",
+    "ma",
+    "Ma",
+    "as",
+    "As",
+    "ms",
+    "AS"
+  ],
+  "degree_count": 7,
+  "certifications": [
+    "PE"
+  ],
+  "certification_count": 1
+}

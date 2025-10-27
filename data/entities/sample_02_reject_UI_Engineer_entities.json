@@ -1,0 +1,74 @@
+{
+  "filename": "sample_02_reject_UI_Engineer.txt",
+  "total_entities": 55,
+  "persons": [
+    "DESCRIPTION",
+    "Git",
+    "Alice Wilson",
+    "Lodash",
+    "React Native"
+  ],
+  "organizations": [
+    "UI Engineer",
+    "UI",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Bachelor",
+    "Computer Science, Engineering",
+    "Material-UI",
+    "Bootstrap",
+    "Foundation",
+    "Webpack, Rollup",
+    "Sass",
+    "Lighthouse",
+    "TypeScript",
+    "ESLint",
+    "Kanban",
+    "XYZ Corporation",
+    "ABC Startups",
+    "University Name]",
+    "CWD"
+  ],
+  "locations": [
+    "Us",
+    "React"
+  ],
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Angular",
+    "Vue.js",
+    "testing",
+    "Git",
+    "Bootstrap",
+    "TypeScript",
+    "jQuery",
+    "Linux",
+    "Agile",
+    "Scrum",
+    "design patterns"
+  ],
+  "skill_count": 15,
+  "degrees": [
+    "Ba",
+    "ma",
+    "Ma",
+    "as",
+    "ms.",
+    "As",
+    "ba",
+    "ms",
+    "AS",
+    "aS"
+  ],
+  "degree_count": 10,
+  "certifications": [
+    "Certified Scrum Master",
+    "CSM",
+    "PE"
+  ],
+  "certification_count": 3
+}

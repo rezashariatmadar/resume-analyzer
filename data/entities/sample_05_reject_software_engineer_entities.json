@@ -1,0 +1,43 @@
+{
+  "filename": "sample_05_reject_software_engineer.txt",
+  "total_entities": 25,
+  "persons": [
+    "DESCRIPTION",
+    "java",
+    "dana rivas",
+    "c++",
+    "c++ developer"
+  ],
+  "organizations": [],
+  "locations": [
+    "c++"
+  ],
+  "skills": [
+    "c++",
+    "java",
+    "python",
+    "github",
+    "linux",
+    "agile",
+    "scrum",
+    "git",
+    "docker",
+    "kubernetes",
+    "ci/cd",
+    "machine learning"
+  ],
+  "skill_count": 12,
+  "degrees": [
+    "ma",
+    "as",
+    "ms.",
+    "ba",
+    "ms",
+    "AS"
+  ],
+  "degree_count": 6,
+  "certifications": [
+    "PE"
+  ],
+  "certification_count": 1
+}

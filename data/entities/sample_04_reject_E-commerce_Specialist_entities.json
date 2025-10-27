@@ -1,0 +1,44 @@
+{
+  "filename": "sample_04_reject_E-commerce_Specialist.txt",
+  "total_entities": 26,
+  "persons": [
+    "DESCRIPTION",
+    "Courtney Walsh",
+    "Insert",
+    "Insert LinkedIn Profile",
+    "Online Retailer",
+    "Wholesaler",
+    "Facebook Ads",
+    "Courtney"
+  ],
+  "organizations": [
+    "Specialist",
+    "Magento",
+    "Amazon\n\nWork",
+    "Degree in Business Administration",
+    "Insert University Name",
+    "Amazon",
+    "Inventory Management Award"
+  ],
+  "locations": [
+    "Shopify"
+  ],
+  "skills": [],
+  "skill_count": 0,
+  "degrees": [
+    "Ba",
+    "ma",
+    "Ma",
+    "as",
+    "ms.",
+    "As",
+    "ba",
+    "ms",
+    "AS"
+  ],
+  "degree_count": 9,
+  "certifications": [
+    "PE"
+  ],
+  "certification_count": 1
+}

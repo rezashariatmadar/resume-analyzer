@@ -1,0 +1,99 @@
+{
+  "total_files_processed": 5,
+  "total_skills_found": 28,
+  "unique_skills": 27,
+  "top_10_skills": [
+    {
+      "skill": "testing",
+      "count": 2
+    },
+    {
+      "skill": "HTML",
+      "count": 1
+    },
+    {
+      "skill": "CSS",
+      "count": 1
+    },
+    {
+      "skill": "JavaScript",
+      "count": 1
+    },
+    {
+      "skill": "React",
+      "count": 1
+    },
+    {
+      "skill": "Angular",
+      "count": 1
+    },
+    {
+      "skill": "Vue.js",
+      "count": 1
+    },
+    {
+      "skill": "Git",
+      "count": 1
+    },
+    {
+      "skill": "Bootstrap",
+      "count": 1
+    },
+    {
+      "skill": "TypeScript",
+      "count": 1
+    }
+  ],
+  "average_stats": {
+    "avg_total_entities": 29.8,
+    "avg_skills": 5.6,
+    "avg_organizations": 8.6,
+    "avg_degrees": 7.4
+  },
+  "files": [
+    {
+      "filename": "sample_01_reject_UX_Designer.txt",
+      "total_entities": 20,
+      "skill_count": 1,
+      "top_skills": [
+        "testing"
+      ]
+    },
+    {
+      "filename": "sample_02_reject_UI_Engineer.txt",
+      "total_entities": 55,
+      "skill_count": 15,
+      "top_skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Angular"
+      ]
+    },
+    {
+      "filename": "sample_03_reject_Human_Resources_Specialist.txt",
+      "total_entities": 23,
+      "skill_count": 0,
+      "top_skills": []
+    },
+    {
+      "filename": "sample_04_reject_E-commerce_Specialist.txt",
+      "total_entities": 26,
+      "skill_count": 0,
+      "top_skills": []
+    },
+    {
+      "filename": "sample_05_reject_software_engineer.txt",
+      "total_entities": 25,
+      "skill_count": 12,
+      "top_skills": [
+        "c++",
+        "java",
+        "python",
+        "github",
+        "linux"
+      ]
+    }
+  ]
+}
